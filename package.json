@@ -19,7 +19,7 @@
     }
   ],
   "dependencies": {
-    "grunt": "0.3.17",
+    "grunt": "1.5.3",
     "grunt-clean": "0.3.0",
     "grunt-wordpress": "1.0.7",
     "grunt-jquery-content": "0.11.0",
